@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**MarieZin/MarieZin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonsoir! Я Маша :white_flower:
+## Немного обо мне
+* ### Образование:
+    - СПБ ГБПОУ "Петровский колледж" факультет "Программирование в компьютерных системах".
 
-Here are some ideas to get you started:
+* ### Дополнительное образование:
+    - Rolling Scopes School - 2 курса.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ### Опыт работы:
+    - Несколько коммерческих проектов на фрилансе.
+
+* ### Навыки:
+    - JS, HTML, CSS, SCSS, Gulp, Git, Figma
+
