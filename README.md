@@ -13,3 +13,15 @@
 * ### Навыки:
     - JS, HTML, CSS, SCSS, Gulp, Git, Figma
 
+***
+## Примеры кода:  
+
+### **Коммерческий лендинг**  
+<img src="./img/prev_engineer.jpg" width=150>  
+
+* [Репозиторий гитхаб](https://github.com/MarieZin/engineerGbi)
+* [Страница лендинга](https://www.engineergbi.ru/)
+* HTML, SCSS, JS
+* Flex, Grid
+* Gulp
+* Адаптивная верстка
