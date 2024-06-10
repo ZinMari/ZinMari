@@ -6,7 +6,8 @@
 
 * ### Дополнительное образование:
     - Rolling Scopes School - 2 курса.
-    - Порешиваю тут: 
+    - Порешиваю тут:
+    
     ![codewars](https://www.codewars.com/users/MarieZin/badges/large)
     
 
