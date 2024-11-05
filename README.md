@@ -12,7 +12,7 @@
     
 
 * ### Опыт работы:
-    - Несколько коммерческих проектов на фрилансе.
+    - Фриланс.
 
 * ### Навыки:
     - JS, HTML, CSS, SCSS, Gulp, Git, Figma, PUG, JQuery, Webpack, PixelPerfect.
