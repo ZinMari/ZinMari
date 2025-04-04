@@ -14,5 +14,5 @@
     - Фриланс.
 
 * ### Навыки:
-    - JS, HTML, CSS, SCSS, Gulp, Git, Figma, PUG, JQuery, Webpack, PixelPerfect.
+    - JS, HTML, CSS, SCSS, Gulp, Git, Figma, PUG, JQuery, Webpack, PixelPerfect, Jest, TS, React.
 
