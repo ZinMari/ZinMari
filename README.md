@@ -28,7 +28,7 @@
       <a href='https://zinmari.github.io/search-for-hotels/index.html'><img src='./images/search-hotel.jpg' width='200'></a>
     </td>
     <td>
-      <a href='https://zinmari.github.io/search-for-hotels/index.html' style="font-weight: 700;">Toxin - сайт поиска номеров</a><br>
+      <a href='https://zinmari.github.io/search-for-hotels/index.html' style="font-weight: 700">Toxin - сайт поиска номеров</a><br>
       Технологии❤️:<br>
       PUG, JS + плагины, jQuery + плагины, SCSS, Webpack, Pixel Perfect, Компонентная архитектура
     </td>
@@ -38,7 +38,7 @@
       <a href='https://zinmari.github.io/alexandr/'><img src='./images/alexandr.jpg' width='200'></a>
     </td>
     <td>
-      <a href='https://zinmari.github.io/alexandr/' style="font-weight: 700;">jQuery-плагин слайдера</a><br>
+      <a href='https://zinmari.github.io/alexandr/' style="font-weight: 700">jQuery-плагин слайдера</a><br>
       Технологии❤️:<br>
       PUG, TS, jQuery, SCSS, Webpack, MVP, Jest, UML
     </td>
@@ -48,7 +48,7 @@
       <a href='https://cosmo-nine-delta.vercel.app/'><img src='./images/game.jpg' width='200'></a>
     </td>
     <td>
-      <a href='https://cosmo-nine-delta.vercel.app/' style="font-weight: 700;">Сайт по игре</a><br>
+      <a href='https://cosmo-nine-delta.vercel.app/' style="font-weight: 700">Сайт по игре</a><br>
       Технологии❤️:<br>
       React, TS, Next, SCSS.<br>
       <span style="font-style: italic;">В процессе разработки</span>
@@ -59,7 +59,7 @@
       <a href='https://react-crypto-app-bay-rho.vercel.app/'><img src='./images/crypto-portfolio.jpg' width='200'></a>
     </td>
     <td>
-      <a href='https://react-crypto-app-bay-rho.vercel.app/' style="font-weight: 700;">Портфолио с криптовалютой</a><br>
+      <a href='https://react-crypto-app-bay-rho.vercel.app/' style="font-weight: 700">Портфолио с криптовалютой</a><br>
       Технологии❤️:<br>
       React, Vite, Ant Design
     </td>
@@ -69,7 +69,7 @@
       <a href='https://zinmari.github.io/Mr.RobotPoster/'><img src='./images/poster.jpg' width='200'></a>
     </td>
     <td>
-    <a href='https://zinmari.github.io/Mr.RobotPoster/' style="font-weight: 700;">Постер</a><br>
+    <a href='https://zinmari.github.io/Mr.RobotPoster/' style="font-weight: 700">Постер</a><br>
       Технологии❤️:<br>
       HTML, SCSS
     </td>
