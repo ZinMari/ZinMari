@@ -25,6 +25,16 @@
 <table>
   <tr valign="top">
     <td>
+      <a href='https://cosmo-nine-delta.vercel.app/'><img src='./images/game.jpg' width='200'></a>
+    </td>
+    <td>
+      <a href='https://cosmo-nine-delta.vercel.app/' style="font-weight: 700">Dusktopia</a><br>
+      Технологии❤️:<br>
+      React, TS, Next, SCSS.<br>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td>
       <a href='https://zinmari.github.io/search-for-hotels/index.html'><img src='./images/search-hotel.jpg' width='200'></a>
     </td>
     <td>
@@ -41,17 +51,6 @@
       <a href='https://zinmari.github.io/alexandr/' style="font-weight: 700">jQuery-плагин слайдера</a><br>
       Технологии❤️:<br>
       PUG, TS, jQuery, SCSS, Webpack, MVP, Jest, UML
-    </td>
-  </tr>
-  <tr valign="top">
-    <td>
-      <a href='https://cosmo-nine-delta.vercel.app/'><img src='./images/game.jpg' width='200'></a>
-    </td>
-    <td>
-      <a href='https://cosmo-nine-delta.vercel.app/' style="font-weight: 700">Сайт по игре</a><br>
-      Технологии❤️:<br>
-      React, TS, Next, SCSS.<br>
-      <span style="font-style: italic;">В процессе разработки</span>
     </td>
   </tr>
   <tr valign="top">
