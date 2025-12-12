@@ -25,22 +25,24 @@
 <table>
   <tr valign="top">
     <td>
-      <a href='https://cosmo-nine-delta.vercel.app/'><img src='./images/game.jpg' width='200'></a>
+      <a href='https://velvety-nine.vercel.app/'><img src='./images/velvety.jpg' width='200'></a>
     </td>
     <td>
-      <a href='https://cosmo-nine-delta.vercel.app/' style="font-weight: 700">Dusktopia</a><br>
+      <a href='https://velvety-nine.vercel.app/' style="font-weight: 700">Velvety</a><br>
+      <a href='https://github.com/ZinMari/velvety' style="font-weight: 700">GitHub проекта</a><br>
       Технологии❤️:<br>
       React, TS, Next, SCSS.<br>
     </td>
   </tr>
   <tr valign="top">
     <td>
-      <a href='https://zinmari.github.io/search-for-hotels/index.html'><img src='./images/search-hotel.jpg' width='200'></a>
+      <a href='https://cosmo-nine-delta.vercel.app/'><img src='./images/game.jpg' width='200'></a>
     </td>
     <td>
-      <a href='https://zinmari.github.io/search-for-hotels/index.html' style="font-weight: 700">Toxin - сайт поиска номеров</a><br>
+      <a href='https://cosmo-nine-delta.vercel.app/' style="font-weight: 700">Dusktopia</a><br>
+      <a href='https://github.com/ZinMari/cosmo' style="font-weight: 700">GitHub проекта</a><br>
       Технологии❤️:<br>
-      PUG, JS + плагины, jQuery + плагины, SCSS, Webpack, Pixel Perfect, Компонентная архитектура
+      React, TS, Next, SCSS.<br>
     </td>
   </tr>
   <tr valign="top">
@@ -49,28 +51,20 @@
     </td>
     <td>
       <a href='https://zinmari.github.io/alexandr/' style="font-weight: 700">jQuery-плагин слайдера</a><br>
+      <a href='https://github.com/ZinMari/jq-range-slider' style="font-weight: 700">GitHub проекта</a><br>
       Технологии❤️:<br>
-      PUG, TS, jQuery, SCSS, Webpack, MVP, Jest, UML
+      PUG, TS, jQuery, SCSS, Webpack, MVP, Jest, UML<br>
     </td>
   </tr>
   <tr valign="top">
     <td>
-      <a href='https://react-crypto-app-bay-rho.vercel.app/'><img src='./images/crypto-portfolio.jpg' width='200'></a>
+      <a href='https://zinmari.github.io/search-for-hotels/index.html'><img src='./images/search-hotel.jpg' width='200'></a>
     </td>
     <td>
-      <a href='https://react-crypto-app-bay-rho.vercel.app/' style="font-weight: 700">Портфолио с криптовалютой</a><br>
+      <a href='https://zinmari.github.io/search-for-hotels/index.html' style="font-weight: 700">Toxin - сайт поиска номеров</a><br>
+      <a href='https://github.com/ZinMari/search-for-hotels' style="font-weight: 700">GitHub проекта</a><br>
       Технологии❤️:<br>
-      React, Vite, Ant Design
-    </td>
-  </tr>
-  <tr valign="top">
-    <td>
-      <a href='https://zinmari.github.io/Mr.RobotPoster/'><img src='./images/poster.jpg' width='200'></a>
-    </td>
-    <td>
-    <a href='https://zinmari.github.io/Mr.RobotPoster/' style="font-weight: 700">Постер</a><br>
-      Технологии❤️:<br>
-      HTML, SCSS
+      PUG, JS + плагины, jQuery + плагины, SCSS, Webpack, Pixel Perfect, Компонентная архитектура<br>
     </td>
   </tr>
 </table>
